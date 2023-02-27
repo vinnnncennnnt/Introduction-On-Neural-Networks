@@ -1,1 +1,1 @@
-# Projet-IA-M1
+# M1-Projet-IA
