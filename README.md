@@ -1,8 +1,8 @@
 # M1-Projet-IA
 
-To run this project just launch the python script that you want to experiment with (present in the Main forlder).
+To run this project just launch the python script that you want to experiment with (present in the Main folder).
 
-the options are :
+the available options are :
 
 1. Kppv-et-perceptron
    - [k-plus-proches-voisins.py](Main/Kppv-et-perceptron/k-plus-proches-voisins.py)
