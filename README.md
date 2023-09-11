@@ -1,4 +1,4 @@
-# M1-Projet-IA
+# Introduction-On-Neural-Networks
 
 To run this project just launch the python script that you want to experiment with (present in the Main folder).
 
